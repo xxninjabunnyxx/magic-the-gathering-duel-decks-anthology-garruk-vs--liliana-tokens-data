@@ -1,0 +1,16 @@
+---
+object: set
+id: cc86f9d1-d866-432a-bb10-0ea81699ebed
+code: tgvl
+name: 'Duel Decks Anthology: Garruk vs. Liliana Tokens'
+uri: https://api.scryfall.com/sets/cc86f9d1-d866-432a-bb10-0ea81699ebed
+scryfall_uri: https://scryfall.com/sets/tgvl
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atgvl&unique=prints
+released_at: '2014-12-05'
+set_type: token
+card_count: 4
+parent_set_code: gvl
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ddd.svg?1694404800
